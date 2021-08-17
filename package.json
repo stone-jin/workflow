@@ -1,0 +1,21 @@
+{
+    "name": "workflow",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "build": "mkdir -p dist && cp -rf src/index.html dist"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/stone-jin/workflow.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/stone-jin/workflow/issues"
+    },
+    "homepage": "https://github.com/stone-jin/workflow#readme"
+}
