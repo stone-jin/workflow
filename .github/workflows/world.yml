@@ -1,4 +1,4 @@
-name: Github Pages Auto Deploy
+name: Midway Workflow Test
 
 on:
   push:
