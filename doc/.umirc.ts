@@ -1,9 +1,10 @@
 import { defineConfig } from 'dumi';
 
 export default defineConfig({
-  title: 'Site Name',
+  title: 'Stone Jin 解决方案',
   mode: 'site',
   base: '/workflow/',
-  publicPath: process.env.NODE_ENV === 'production' ? '/workflow/' : '/',
+  publicPath: '/workflow/',
+  locales: [['zh-CN', '中文']]
   // more config: https://d.umijs.org/config
 });

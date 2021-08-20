@@ -1,9 +1,11 @@
 ---
 nav:
-  title: Getting Started
+  title: 快速上手
   order: 1
 ---
 
-# Getting Started
+# 快速上手
 
-Balabala...
+大家好，我是Stone jin， 欢迎大家访问我的网站。
+
+本网站主要是收集和分享自己工作&生活中的一些记录，希望在总结的同时也能帮助到你。
