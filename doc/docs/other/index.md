@@ -1,7 +1,7 @@
 ---
-order: 2
+order: 1
 nav:
-  title: 文档网站
+  title: 其他
   order: 7
 ---
 
@@ -22,3 +22,7 @@ nav:
 ### React官网
 
 [React官网](https://reactjs.org/)
+
+### 阮一峰的网站
+
+[阮一峰的网络日志](https://www.ruanyifeng.com/blog/)
