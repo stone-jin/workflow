@@ -4,7 +4,7 @@ hero:
   desc: 为开发者整理各类解决方案，助力快速解决项目需求
   actions:
     - text: 快速上手
-      link: /getting-started
+      link: /basic/introduction
 features:
   - icon: https://gw.alipayobjects.com/zos/bmw-prod/881dc458-f20b-407b-947a-95104b5ec82b/k79dm8ih_w144_h144.png
     title: 中后台
