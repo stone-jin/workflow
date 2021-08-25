@@ -1,7 +1,7 @@
 ---
 order: 2
 nav:
-  title: Cool-UNI
+  title: 移动端
   order: 2
 ---
 
