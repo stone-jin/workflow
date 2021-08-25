@@ -24,3 +24,18 @@ just build hello.js --clean --static
 ```
 
 主要收藏是为了学习V8相关内容。
+
+### chokidar
+
+Minimal and efficient cross-platform file watching library
+
+[Github地址](https://github.com/paulmillr/chokidar)
+
+```javascript
+const chokidar = require('chokidar');
+
+// One-liner for current directory
+chokidar.watch('.').on('all', (event, path) => {
+  console.log(event, path);
+});
+```
