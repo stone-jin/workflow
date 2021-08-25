@@ -4,10 +4,7 @@ on:
   push:
     branches: [main]
     paths:
-      - "**.jpg"
-      - "**.jpeg"
-      - "**.png"
-      - "**.webp"
+      - "images/*"
 
 jobs:
   compress:
