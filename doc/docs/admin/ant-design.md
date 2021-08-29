@@ -1,5 +1,5 @@
 ---
-order: 1
+order: 2
 title: 中后台框架
 nav:
   title: 中后台
