@@ -10,6 +10,7 @@ nav:
 
 开发机器: 
 
+- MacBook Pro (16-inch, 2021）（8+2）核 Apple M1 Pro 16GB （2022年更新）
 - MacBook Pro (15-inch, 2016) 2.6 GHz 四核Intel Core i7
 - MacBook Pro (15-inch, 2018) 2.4 GHz 四核Intel Core i5
 

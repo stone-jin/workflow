@@ -7,7 +7,7 @@ nav:
 
 # 我&&我的网站
 
-大家好，我是Stone jin， 欢迎大家访问我的网站。
+大家好，我是金炳， 欢迎大家访问我的网站。
 
 本网站主要是收集和分享自己工作&生活中的一些记录，希望在总结的同时也能帮助到你。
 
@@ -16,6 +16,7 @@ nav:
 - 工程化
 - 全栈应用开发
 - Serverless
+- Node APM + 诊断
 
 底层能力：
 - Node源码
@@ -29,8 +30,9 @@ nav:
 - 邮箱大师 Hybrid APP模式，Windows & mac & 移动端 前端负责人
 - 网易严选
 - Midway核心开发者
+- Alinode监控平台
 
-工作经验：7年+
+工作经验：8年+
 
 我的知乎：<a href="https://www.zhihu.com/people/stone-jin-52/posts" target="_blank">知乎地址</a>
 
