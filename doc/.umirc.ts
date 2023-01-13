@@ -5,6 +5,13 @@ export default defineConfig({
   mode: 'site',
   base: '/',
   publicPath: '/',
-  locales: [['zh-CN', '中文']]
+  locales: [['zh-CN', '中文']],
+  navs: [
+    null, // null 值代表保留约定式生成的导航，只做增量配置
+    {
+      title: '博客',
+      path: 'https://blog.fedfans.com',
+    }
+  ],
   // more config: https://d.umijs.org/config
 });
