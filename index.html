@@ -6,22 +6,9 @@
       name="viewport"
       content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no"
     />
-    <link rel="stylesheet" href="./umi.css" />
+    <link rel="stylesheet" href="/umi.css" />
     <script>
-      window.routerBase = location.pathname
-        .split("/")
-        .slice(0, -1)
-        .concat("")
-        .join("/");
-    </script>
-    <script>
-      window.publicPath =
-        window.resourceBaseUrl ||
-        location.protocol +
-          "//" +
-          location.hostname +
-          (location.port ? ":" + location.port : "") +
-          window.routerBase;
+      window.routerBase = "/";
     </script>
     <script>
       //! umi version: 3.5.36
@@ -40,11 +27,10 @@
         );
       })();
     </script>
-    <title>愿景 - Stone Jin 解决方案</title>
   </head>
   <body>
     <div id="root"></div>
 
-    <script src="./umi.js"></script>
+    <script src="/umi.js"></script>
   </body>
 </html>
