@@ -6,11 +6,11 @@ export default defineConfig({
   base: '/',
   publicPath: '/',
   locales: [['zh-CN', '中文']],
-  exportStatic: {
+  /* exportStatic: {
     htmlSuffix: true,
     dynamicRoot: true,
     supportWin: true// boolean;
-  },
+  },*/
   navs: [
     null, // null 值代表保留约定式生成的导航，只做增量配置
     {
