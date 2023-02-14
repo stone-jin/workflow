@@ -30,11 +30,6 @@
         );
       })();
     </script>
-  </head>
-  <body>
-    <div id="root"></div>
-
-    <script src="/umi.js"></script>
     <script>
        fetch("https://blog.fedfans.com/api/vist",{
           headers: {
@@ -45,5 +40,9 @@
           body: JSON.stringify({ url: window.location.toString() })
         }).catch(e=>{})
     </script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script src="/umi.js"></script>
   </body>
 </html>
