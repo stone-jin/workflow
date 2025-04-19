@@ -32,8 +32,6 @@ nav:
 - Midway核心开发者
 - Alinode监控平台
 
-工作经验：8年+
-
 我的知乎：<a href="https://www.zhihu.com/people/stone-jin-52/posts" target="_blank">知乎地址</a>
 
 公众号地址：
